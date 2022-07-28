@@ -3,6 +3,7 @@ _Junior Frontend Developer_
 ####_contact information_
 ___
 e-mail: tiantos@gmail.com
+github: https://github.com/tiantos
 telegram: @tiantos
 ####_briefly about_
 ___
@@ -11,7 +12,7 @@ Interested in parametric design, improving workflow by integration of coding, pl
 Therefore I try to learn something new and search new solutions for routine-tasks)
 ####_skills_
 ___
-* it
+* __it__
     * git | github | markdown
     * figma
     * visual studio code
@@ -26,15 +27,18 @@ ___
 
 ####_education_
 ___
-* it
-    * RS school #stage0
+* __it__
+    * 2022 - in progress | Rolling Scopes School | Javascript/Front-End Program #stage0
+    * 2021 - Encode small course "Create a website"
 * _arch_   
-    * _SPbGASU | master of architecture_
+    * _2013-2018 | SPbGASU | architect | bachelor's degree_
+    * _2018-2020 | SPbGASU | architect | master's degree_
 ####_experience_
 ___
 I don't have any it experience,  although I have done some python scripts for grasshopper and qgis to reduce my master's workflow.
 ####_code example_
 ___
 ####_languages_
-* english B2-C1
-* italian A2
+* __russian__ | native
+* __english__ | B2-C1
+* italian | A2
