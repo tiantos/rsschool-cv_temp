@@ -21,7 +21,7 @@ ___
     * python basics
 * _arch_
     * _rhinoceros + grasshopper_
-    * _adobe photoshop | illustrator | indesign | premiere pro_
+    * _adobe photoshop | illustrator | indesign_
     * _qgis_
 
 ####_education_
