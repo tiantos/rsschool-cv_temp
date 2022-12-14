@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://github.com/tiantos/rsschool-cv/blob/gh-pages/cv.md
