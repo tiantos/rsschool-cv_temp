@@ -1,1 +1,1 @@
-# https://github.com/tiantos/rsschool-cv/blob/gh-pages/cv.md
+# https://tiantos.github.io/rsschool-cv/cv
