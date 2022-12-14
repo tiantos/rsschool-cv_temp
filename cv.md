@@ -1,16 +1,16 @@
-## Tatiana Antos
+# Tatiana Antos
 _Junior Frontend Developer_
-####_contact information_
+###_contact information_
 ___
 e-mail: tiantos@gmail.com
 github: https://github.com/tiantos
 telegram: @tiantos
-####_briefly about_
+###_briefly about_
 ___
 Currently working as an architect and urban planner. 
 Interested in parametric design, improving workflow by integration of coding, plugins etc. 
 Therefore I try to learn something new and search new solutions for routine-tasks)
-####_skills_
+###_skills_
 ___
 * __it__
     * git | github | markdown
@@ -25,7 +25,7 @@ ___
     * _adobe photoshop | illustrator | indesign | premiere pro_
     * _qgis_
 
-####_education_
+###_education_
 ___
 * __it__
     * 2022 - in progress | Rolling Scopes School | Javascript/Front-End Program #stage0
@@ -36,12 +36,12 @@ ___
 * _arch_   
     * _2013-2018 | SPbGASU | architect | bachelor's degree_
     * _2018-2020 | SPbGASU | architect | master's degree_
-####_experience_
+###_experience_
 ___
 I don't have any it experience,  although I have done some python scripts for grasshopper and qgis to reduce my master's workflow.
 ####_code example_
 ___
-####_languages_
+###_languages_
 * __russian__ | native
 * __english__ | B2-C1
-* italian | A2
+* __italian__ | A2
