@@ -29,10 +29,10 @@ ___
 ___
 * __it__
     * 2022 - in progress | Rolling Scopes School | Javascript/Front-End Program #stage0
-    * 2021 | Encode | Create a website
-    * 2021 | Hexlet | HTML for beginner
-    * 2021 | Hexlet | CSS for beginner
-    * 2021 | Hexlet | JavaScript for beginner
+    * 2022 | Encode | Create a website
+    * 2022 | Hexlet | HTML for beginner
+    * 2022 | Hexlet | CSS for beginner
+    * 2022 | Hexlet | JavaScript for beginner
 * _arch_   
     * _2013-2018 | SPbGASU | architect | bachelor's degree_
     * _2018-2020 | SPbGASU | architect | master's degree_
